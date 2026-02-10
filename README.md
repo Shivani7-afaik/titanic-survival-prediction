@@ -31,4 +31,4 @@ fare, and embarkation port.
 Open the notebook in Google Colab and run all cells.
 
 ## Notebook
-https://colab.research.google.com/github/Shivani7-afaik/titanic-survival-prediction/blob/main/notebooks/titanic_survival_prediction.ipynb
+https://colab.research.google.com/github/Shivani7-afaik/titanic-survival-prediction/blob/main/notebooks/titanic_survival_prediction_ipynb.ipynb
